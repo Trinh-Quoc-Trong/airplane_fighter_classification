@@ -1,0 +1,11 @@
+*.pth
+*.pt
+*.pth.tar
+*.pth.tar.gz
+*.pth.tar.bz2
+*.pth.tar.xz
+*.pth.tar.lzma
+*.pth.tar.lz
+*.pth.tar.zst
+*.pth.tar.zstd
+*.pth.tar.zstd.tar
