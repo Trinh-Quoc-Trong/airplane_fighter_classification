@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    airplane       0.87      0.69      0.77        86
+     fighter       0.74      0.90      0.81        87
+
+    accuracy                           0.79       173
+   macro avg       0.81      0.79      0.79       173
+weighted avg       0.80      0.79      0.79       173

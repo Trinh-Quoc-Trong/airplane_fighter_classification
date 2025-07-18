@@ -9,3 +9,6 @@
 *.pth.tar.zst
 *.pth.tar.zstd
 *.pth.tar.zstd.tar
+*.rar
+*.7z
+*.zip
